@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/katiegd/node_info_site/issues"
   },
-  "homepage": "https://github.com/katiegd/node_info_site#readme"
+  "homepage": "https://github.com/katiegd/node_info_site#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
